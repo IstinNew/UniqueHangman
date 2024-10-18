@@ -2,7 +2,7 @@
 A unique and fun Hangman game implemented in Google Colab (Jupyter Notebook service)
 
 ### Unique Hangman
-Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game implemented in Python. The aim of the game is to guess the word by suggesting letters within a certain number of guesses. The game will import words from NLTK library.
+Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game implemented in Python. The aim of the game is to guess the word by suggesting letters within a certain number of guesses.
 
 ### How to Play
 1. Run the code in a Google Colab notebook.
