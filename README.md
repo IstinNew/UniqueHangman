@@ -7,8 +7,10 @@ Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game i
 ### How to Play
 1. Run the code in a Google Colab notebook.
 2. **Debug Mode**:
-3. **Enable** Debug Mode: Set the **DEBUG_MODE flag** to **True** to see the chosen word for each game.
-   **Disable** Debug Mode: Set the **DEBUG_MODE flag** to **False** to play the game without seeing the chosen word.
+
+   **Enable**: Set the **DEBUG_MODE flag** to **True** to see the chosen word for each game.
+
+   **Disable**: Set the **DEBUG_MODE flag** to **False** to play the game without seeing the chosen word.
 4. The game will randomly choose a tech-themed word.
 5. You have 7 tries to guess the word.
 6. Enter a letter to guess. If the letter is in the word, it will be revealed in the correct positions. If the letter is not in the word, you will lose a try.
