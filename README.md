@@ -6,10 +6,11 @@ Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game i
 
 ### How to Play
 1. Run the code in a Google Colab notebook.
-2. The game will randomly choose a tech-themed word.
-3. You have 7 tries to guess the word.
-4. Enter a letter to guess. If the letter is in the word, it will be revealed in the correct positions. If the letter is not in the word, you will lose a try.
-5. Keep guessing until you either guess the word correctly or run out of tries.
+2. **Debug Mode**: Enable by uncommenting the debug line to see the chosen word.
+3. The game will randomly choose a tech-themed word.
+4. You have 7 tries to guess the word.
+5. Enter a letter to guess. If the letter is in the word, it will be revealed in the correct positions. If the letter is not in the word, you will lose a try.
+6. Keep guessing until you either guess the word correctly or run out of tries.
 
 ### What Makes This Code Unique
 - **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option too "Hash" , deubug and play against the library for enthusiasts)**
