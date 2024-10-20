@@ -12,7 +12,7 @@ Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game i
 5. Keep guessing until you either guess the word correctly or run out of tries.
 
 ### What Makes This Code Unique
-- **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option too "Hash" , deubug and play against the library for pro-people)**
+- **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option too "Hash" , deubug and play against the library for enthusiasts)**
 - **Tech-Themed Words**: Words are carefully chosen to reflect tech-savvy terms, making the game more exciting for tech enthusiasts.
 - **Input Validation**: Robust input validation to handle digits, upper or lower case letters, and repeated guesses without losing chances.
 - **Debugging Feature**: Includes a debug line for programmers to easily identify the chosen word, facilitating smoother game development and testing.
