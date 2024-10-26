@@ -6,7 +6,7 @@ This project is a unique take on the classic Hangman game with a fun and tech-th
 ## Languages and Libraries Used
 - Python
 - Google Colab
-- - Random (Re)
+- Random (Re)
 - Faker library
 
 
