@@ -14,7 +14,7 @@ This project is a unique take on the classic Hangman game with a fun and tech-th
 This project provided an opportunity to practice advanced Python programming skills, including object-oriented programming, and customizations for a unique gaming experience. Additionally, using Google Colab streamlined collaboration and execution in a cloud environment.
 
 ### What Makes This Code Unique
-- **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option too "Hash" , deubug and play against the library for enthusiasts)**
+- **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option to deubug and play against the library for enthusiasts)**
 - **Tech-Themed Words**: Words are carefully chosen to reflect tech-savvy terms, making the game more exciting for tech enthusiasts.
 - **Input Validation**: Robust input validation to handle digits, upper or lower case letters, and repeated guesses without losing chances.
 - **Debugging Feature**: Includes a debug line for programmers to easily identify the chosen word, facilitating smoother game development and testing.
