@@ -1,20 +1,17 @@
-#### UniqueHangman
-A unique and fun Hangman game implemented in Google Colab (Jupyter Notebook service)
+# Unique Hangman
 
-### Unique Hangman
-Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game implemented in Python. The aim of the game is to guess the word by suggesting letters within a certain number of guesses.
+## Summary
+This project is a unique take on the classic Hangman game with a fun and tech-themed approach implemented in Python. Users can guess letters to reveal a hidden word, with a limited number of incorrect guesses allowed before the game is over. This version includes unique features and customizations to enhance the gameplay experience.
 
-### How to Play
-1. Run the code in a Google Colab notebook.
-2. **Debug Mode**:
+## Languages and Libraries Used
+- Python
+- Google Colab
+- - Random (Re)
+- Faker library
 
-   **Enable**: Set the **DEBUG_MODE flag** to **True** to see the chosen word for each game.
 
-   **Disable**: Set the **DEBUG_MODE flag** to **False** to play the game without seeing the chosen word.
-4. The game will randomly choose a tech-themed word.
-5. You have 7 tries to guess the word.
-6. Enter a letter to guess. If the letter is in the word, it will be revealed in the correct positions. If the letter is not in the word, you will lose a try.
-7. Keep guessing until you either guess the word correctly or run out of tries.
+## Key Learnings
+This project provided an opportunity to practice advanced Python programming skills, including object-oriented programming, and customizations for a unique gaming experience. Additionally, using Google Colab streamlined collaboration and execution in a cloud environment.
 
 ### What Makes This Code Unique
 - **Dynamic Word Choice**: Utilizes the faker library to ensure words are randomly selected each game, ensuring a unique experience every time. **(# Option too "Hash" , deubug and play against the library for enthusiasts)**
@@ -28,11 +25,8 @@ Welcome to the Unique Hangman Game! This is a fun and tech-themed Hangman game i
 - **Player engagement**: Option to replay the game, enhancing engagement and enjoyment.
 - **Educational Value**: Helps improve vocabulary and familiarity with tech terms in a fun and interactive way.
 
-### Requirements
-- Python 3.x
-- Random (Re)
-- Faker library
+## Challenges Overcame
+Challenges included implementing custom features and handling complex game logic to maintain a smooth user experience. Configuring the project in Google Colab also provided insights into using cloud-based IDEs for collaborative work.
 
-### Running the Game
-To run the game, simply copy the code into a Google Colab notebook and execute the cells.
-
+## Additional Reflections
+Working on this project was a fantastic exercise in applying advanced programming concepts and enhancing the classic Hangman game with unique features. It provided valuable experience in debugging and refining code to improve the overall user experience.
